@@ -20,9 +20,9 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=26420118&pid=57d93b8cd43bd83689631af0de73275b&tid=1c9126eac889466a830d782efa210dc9",
-    "https://www.maimemo.com/share/page?uid=26420118&pid=57d93b8cd43bd83689631af0de73275b&tid=1c9126eac889466a830d782efa210dc9",
-    "https://www.maimemo.com/share/page?uid=26420118&pid=57d93b8cd43bd83689631af0de73275b&tid=1c9126eac889466a830d782efa210dc9",
+    "https://www.maimemo.com/page?sid=519b3d27ff26ea404f257bf1bfc86c64&uid=26420118&pid=c8f92d63fed8388db0efa043ebf6b614&tid=ad4f2dd31e06f8183f11f2ef8fb99411&view_time=1696904361&bind_user=0&create_user=0&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit5QzW0mfQewOMijwGr74A9M&token=0c0d9b04e00837c42681c8cd11a32f26eba1196b625dc127a1f9df08d994781f&expired_time=2024-10-09T10:19:20%2008:00",
+    "https://www.maimemo.com/page?sid=519b3d27ff26ea404f257bf1bfc86c64&uid=26420118&pid=c8f92d63fed8388db0efa043ebf6b614&tid=ad4f2dd31e06f8183f11f2ef8fb99411&view_time=1696904361&bind_user=0&create_user=0&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit5QzW0mfQewOMijwGr74A9M&token=0c0d9b04e00837c42681c8cd11a32f26eba1196b625dc127a1f9df08d994781f&expired_time=2024-10-09T10:19:20%2008:00",
+    "https://www.maimemo.com/page?sid=519b3d27ff26ea404f257bf1bfc86c64&uid=26420118&pid=c8f92d63fed8388db0efa043ebf6b614&tid=ad4f2dd31e06f8183f11f2ef8fb99411&view_time=1696904361&bind_user=0&create_user=0&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit5QzW0mfQewOMijwGr74A9M&token=0c0d9b04e00837c42681c8cd11a32f26eba1196b625dc127a1f9df08d994781f&expired_time=2024-10-09T10:19:20%2008:00",
   ]
   /**
    * 生成随机数字
